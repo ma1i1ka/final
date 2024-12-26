@@ -1,0 +1,12 @@
+/* Ваши дополнительные стили здесь */  
+body {  
+    background-color: #f5f5f5;  
+  }  
+  
+  .navbar-brand, .nav-link, h1, h2, h3, h4, h5, h6 {  
+    color: #4b4b4b;  
+  }  
+  
+  .navbar {  
+    background-color: #ffffff70 !important;  
+  }
